@@ -62,12 +62,9 @@ This produces a smooth, natural spring-like motion.
 
 ### Demo Video (30 seconds)
 
-Watch the live demo directly below:
+### Demo Video (30 seconds)
+[Watch the live demo video](https://github.com/2004krishna/Interactive-B-zier-Curve-with-Physics-Sensor-Control-Solution/raw/main/demo.mp4)
 
-<video width="700" controls>
-  <source src="https://github.com/2004krishna/Interactive-B-zier-Curve-with-Physics-Sensor-Control-Solution/raw/main/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
